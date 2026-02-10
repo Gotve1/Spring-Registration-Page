@@ -6,12 +6,6 @@ A comprehensive user registration application built with **Spring Framework** ba
 
 This project demonstrates a complete sign-up business logic implementation using modern web technologies. It features a clean separation between frontend and backend components, with secure database integration for persistent user data storage.
 
-**Project Composition:**
-- Java: 50.1% - Backend logic and server-side operations
-- CSS: 21.3% - Styling and responsive design
-- JavaScript: 19.7% - Client-side interactivity and validation
-- HTML: 8.9% - Page structure and markup
-
 ## Key Features
 
 ### Custom User Interface
